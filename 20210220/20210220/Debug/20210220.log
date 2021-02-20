@@ -1,3 +1,4 @@
 ﻿  test.c
+d:\code\ccode\20210220\20210220\test.c(48): warning C4129: “N”: 不可识别的字符转义序列
   LINK : 没有找到 D:\Code\Ccode\20210220\Debug\20210220.exe 或上一个增量链接没有生成它；正在执行完全链接
   20210220.vcxproj -> D:\Code\Ccode\20210220\Debug\20210220.exe
